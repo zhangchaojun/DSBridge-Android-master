@@ -1,5 +1,6 @@
 
 # DSBridge for Android
+test for github clone
 
 ![dsBridge](https://github.com/wendux/DSBridge-IOS/raw/master/img/dsbridge.png)
 
